@@ -1,0 +1,1 @@
+A Game of Connect 4 Made in C++, against a very simple bot.
